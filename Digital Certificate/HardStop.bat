@@ -1,0 +1,1 @@
+pskill.exe wscript.exe
